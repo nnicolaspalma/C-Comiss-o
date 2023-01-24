@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Siglas_Estados/1.0.0": {
+        "runtime": {
+          "Siglas_Estados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siglas_Estados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
