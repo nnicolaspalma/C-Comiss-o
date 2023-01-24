@@ -1,0 +1,16 @@
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.csprojAssemblyReference.cache
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.AssemblyInfo.cs
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\bin\Debug\net5.0\TransformandoEmSegundos.exe
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\bin\Debug\net5.0\TransformandoEmSegundos.deps.json
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\bin\Debug\net5.0\TransformandoEmSegundos.runtimeconfig.json
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\bin\Debug\net5.0\TransformandoEmSegundos.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\bin\Debug\net5.0\TransformandoEmSegundos.dll
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\bin\Debug\net5.0\ref\TransformandoEmSegundos.dll
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\bin\Debug\net5.0\TransformandoEmSegundos.pdb
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.dll
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\ref\TransformandoEmSegundos.dll
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.pdb
+C:\Users\nnico\source\repos\TransformandoEmSegundos\TransformandoEmSegundos\obj\Debug\net5.0\TransformandoEmSegundos.genruntimeconfig.cache
