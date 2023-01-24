@@ -1,0 +1,15 @@
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\bin\Debug\net5.0\Repiticao1ao9.exe
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\bin\Debug\net5.0\Repiticao1ao9.deps.json
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\bin\Debug\net5.0\Repiticao1ao9.runtimeconfig.json
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\bin\Debug\net5.0\Repiticao1ao9.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\bin\Debug\net5.0\Repiticao1ao9.dll
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\bin\Debug\net5.0\ref\Repiticao1ao9.dll
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\bin\Debug\net5.0\Repiticao1ao9.pdb
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\Repiticao1ao9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\Repiticao1ao9.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\Repiticao1ao9.AssemblyInfo.cs
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\Repiticao1ao9.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\Repiticao1ao9.dll
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\ref\Repiticao1ao9.dll
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\Repiticao1ao9.pdb
+C:\Users\nnico\source\repos\Repiticao1ao9\Repiticao1ao9\obj\Debug\net5.0\Repiticao1ao9.genruntimeconfig.cache
