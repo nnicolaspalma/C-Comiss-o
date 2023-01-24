@@ -1,0 +1,15 @@
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\bin\Debug\net5.0\MultiplosDe4De0a1000.exe
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\bin\Debug\net5.0\MultiplosDe4De0a1000.deps.json
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\bin\Debug\net5.0\MultiplosDe4De0a1000.runtimeconfig.json
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\bin\Debug\net5.0\MultiplosDe4De0a1000.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\bin\Debug\net5.0\MultiplosDe4De0a1000.dll
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\bin\Debug\net5.0\ref\MultiplosDe4De0a1000.dll
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\bin\Debug\net5.0\MultiplosDe4De0a1000.pdb
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\MultiplosDe4De0a1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\MultiplosDe4De0a1000.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\MultiplosDe4De0a1000.AssemblyInfo.cs
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\MultiplosDe4De0a1000.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\MultiplosDe4De0a1000.dll
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\ref\MultiplosDe4De0a1000.dll
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\MultiplosDe4De0a1000.pdb
+C:\Users\nnico\source\repos\MultiplosDe4De0a1000\MultiplosDe4De0a1000\obj\Debug\net5.0\MultiplosDe4De0a1000.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MultiplosDe4De0a1000/1.0.0": {
+        "runtime": {
+          "MultiplosDe4De0a1000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiplosDe4De0a1000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
