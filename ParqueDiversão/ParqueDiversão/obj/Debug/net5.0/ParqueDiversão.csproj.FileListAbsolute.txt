@@ -1,0 +1,16 @@
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.csprojAssemblyReference.cache
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.AssemblyInfo.cs
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\bin\Debug\net5.0\ParqueDiversão.exe
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\bin\Debug\net5.0\ParqueDiversão.deps.json
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\bin\Debug\net5.0\ParqueDiversão.runtimeconfig.json
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\bin\Debug\net5.0\ParqueDiversão.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\bin\Debug\net5.0\ParqueDiversão.dll
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\bin\Debug\net5.0\ref\ParqueDiversão.dll
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\bin\Debug\net5.0\ParqueDiversão.pdb
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.dll
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ref\ParqueDiversão.dll
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.pdb
+C:\Users\nnico\source\repos\ParqueDiversão\ParqueDiversão\obj\Debug\net5.0\ParqueDiversão.genruntimeconfig.cache
