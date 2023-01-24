@@ -1,0 +1,15 @@
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\bin\Debug\net5.0\PararNumeroInformado0.exe
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\bin\Debug\net5.0\PararNumeroInformado0.deps.json
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\bin\Debug\net5.0\PararNumeroInformado0.runtimeconfig.json
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\bin\Debug\net5.0\PararNumeroInformado0.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\bin\Debug\net5.0\PararNumeroInformado0.dll
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\bin\Debug\net5.0\ref\PararNumeroInformado0.dll
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\bin\Debug\net5.0\PararNumeroInformado0.pdb
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\PararNumeroInformado0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\PararNumeroInformado0.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\PararNumeroInformado0.AssemblyInfo.cs
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\PararNumeroInformado0.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\PararNumeroInformado0.dll
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\ref\PararNumeroInformado0.dll
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\PararNumeroInformado0.pdb
+C:\Users\nnico\source\repos\PararNumeroInformado0\PararNumeroInformado0\obj\Debug\net5.0\PararNumeroInformado0.genruntimeconfig.cache
