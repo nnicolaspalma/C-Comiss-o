@@ -1,0 +1,16 @@
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\bin\Debug\net5.0\ContasAritmetricas.exe
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\bin\Debug\net5.0\ContasAritmetricas.deps.json
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\bin\Debug\net5.0\ContasAritmetricas.runtimeconfig.json
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\bin\Debug\net5.0\ContasAritmetricas.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\bin\Debug\net5.0\ContasAritmetricas.dll
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\bin\Debug\net5.0\ref\ContasAritmetricas.dll
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\bin\Debug\net5.0\ContasAritmetricas.pdb
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.csprojAssemblyReference.cache
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.AssemblyInfo.cs
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.dll
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ref\ContasAritmetricas.dll
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.pdb
+C:\Users\nnico\source\repos\ContasAritmetricas\ContasAritmetricas\obj\Debug\net5.0\ContasAritmetricas.genruntimeconfig.cache
