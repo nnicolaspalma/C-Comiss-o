@@ -1,0 +1,15 @@
+C:\Users\nnico\source\repos\Caixa\Caixa\bin\Debug\net5.0\Caixa.exe
+C:\Users\nnico\source\repos\Caixa\Caixa\bin\Debug\net5.0\Caixa.deps.json
+C:\Users\nnico\source\repos\Caixa\Caixa\bin\Debug\net5.0\Caixa.runtimeconfig.json
+C:\Users\nnico\source\repos\Caixa\Caixa\bin\Debug\net5.0\Caixa.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\Caixa\Caixa\bin\Debug\net5.0\Caixa.dll
+C:\Users\nnico\source\repos\Caixa\Caixa\bin\Debug\net5.0\ref\Caixa.dll
+C:\Users\nnico\source\repos\Caixa\Caixa\bin\Debug\net5.0\Caixa.pdb
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\Caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\Caixa.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\Caixa.AssemblyInfo.cs
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\Caixa.dll
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\ref\Caixa.dll
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\Caixa.pdb
+C:\Users\nnico\source\repos\Caixa\Caixa\obj\Debug\net5.0\Caixa.genruntimeconfig.cache
