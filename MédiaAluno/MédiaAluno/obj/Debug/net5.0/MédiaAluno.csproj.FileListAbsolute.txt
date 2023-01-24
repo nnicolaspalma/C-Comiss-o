@@ -1,0 +1,16 @@
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\bin\Debug\net5.0\MédiaAluno.exe
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\bin\Debug\net5.0\MédiaAluno.deps.json
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\bin\Debug\net5.0\MédiaAluno.runtimeconfig.json
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\bin\Debug\net5.0\MédiaAluno.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\bin\Debug\net5.0\MédiaAluno.dll
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\bin\Debug\net5.0\ref\MédiaAluno.dll
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\bin\Debug\net5.0\MédiaAluno.pdb
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.csprojAssemblyReference.cache
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.AssemblyInfo.cs
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.dll
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\ref\MédiaAluno.dll
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.pdb
+C:\Users\nnico\source\repos\MédiaAluno\MédiaAluno\obj\Debug\net5.0\MédiaAluno.genruntimeconfig.cache
