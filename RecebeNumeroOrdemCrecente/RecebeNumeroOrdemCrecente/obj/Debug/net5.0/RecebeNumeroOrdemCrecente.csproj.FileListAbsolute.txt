@@ -1,0 +1,16 @@
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.csprojAssemblyReference.cache
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.AssemblyInfo.cs
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\bin\Debug\net5.0\RecebeNumeroOrdemCrecente.exe
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\bin\Debug\net5.0\RecebeNumeroOrdemCrecente.deps.json
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\bin\Debug\net5.0\RecebeNumeroOrdemCrecente.runtimeconfig.json
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\bin\Debug\net5.0\RecebeNumeroOrdemCrecente.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\bin\Debug\net5.0\RecebeNumeroOrdemCrecente.dll
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\bin\Debug\net5.0\ref\RecebeNumeroOrdemCrecente.dll
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\bin\Debug\net5.0\RecebeNumeroOrdemCrecente.pdb
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.dll
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\ref\RecebeNumeroOrdemCrecente.dll
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.pdb
+C:\Users\nnico\source\repos\RecebeNumeroOrdemCrecente\RecebeNumeroOrdemCrecente\obj\Debug\net5.0\RecebeNumeroOrdemCrecente.genruntimeconfig.cache
