@@ -1,0 +1,16 @@
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.csprojAssemblyReference.cache
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.AssemblyInfo.cs
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\Média\Média\bin\Debug\net5.0\Média.exe
+C:\Users\nnico\source\repos\Média\Média\bin\Debug\net5.0\Média.deps.json
+C:\Users\nnico\source\repos\Média\Média\bin\Debug\net5.0\Média.runtimeconfig.json
+C:\Users\nnico\source\repos\Média\Média\bin\Debug\net5.0\Média.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\Média\Média\bin\Debug\net5.0\Média.dll
+C:\Users\nnico\source\repos\Média\Média\bin\Debug\net5.0\ref\Média.dll
+C:\Users\nnico\source\repos\Média\Média\bin\Debug\net5.0\Média.pdb
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.dll
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\ref\Média.dll
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.pdb
+C:\Users\nnico\source\repos\Média\Média\obj\Debug\net5.0\Média.genruntimeconfig.cache
