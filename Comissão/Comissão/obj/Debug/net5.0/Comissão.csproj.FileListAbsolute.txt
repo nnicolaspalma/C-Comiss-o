@@ -1,0 +1,16 @@
+C:\Users\nnico\source\repos\Comissão\Comissão\bin\Debug\net5.0\Comissão.exe
+C:\Users\nnico\source\repos\Comissão\Comissão\bin\Debug\net5.0\Comissão.deps.json
+C:\Users\nnico\source\repos\Comissão\Comissão\bin\Debug\net5.0\Comissão.runtimeconfig.json
+C:\Users\nnico\source\repos\Comissão\Comissão\bin\Debug\net5.0\Comissão.runtimeconfig.dev.json
+C:\Users\nnico\source\repos\Comissão\Comissão\bin\Debug\net5.0\Comissão.dll
+C:\Users\nnico\source\repos\Comissão\Comissão\bin\Debug\net5.0\ref\Comissão.dll
+C:\Users\nnico\source\repos\Comissão\Comissão\bin\Debug\net5.0\Comissão.pdb
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.csprojAssemblyReference.cache
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.AssemblyInfoInputs.cache
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.AssemblyInfo.cs
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.csproj.CoreCompileInputs.cache
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.dll
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\ref\Comissão.dll
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.pdb
+C:\Users\nnico\source\repos\Comissão\Comissão\obj\Debug\net5.0\Comissão.genruntimeconfig.cache
